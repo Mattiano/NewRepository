@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: UiPath Academy",
+  "Type": "Screen",
+  "Id": "x703fLCVkk29wy54eOWr5A",
+  "Reference": "zXWTz89j6kCfYtW4x_f9rg/x703fLCVkk29wy54eOWr5A",
+  "ParentRef": "zXWTz89j6kCfYtW4x_f9rg/ZN9pnfrNwk-wfOPhJYRoAA",
+  "Created": "2024-04-17T14:20:05.191837Z",
+  "Updated": "2024-04-17T14:20:05.191837Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
