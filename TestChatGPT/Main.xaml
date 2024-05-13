@@ -122,7 +122,7 @@
         </isactr:FieldObject>
         <isactr:FieldObject Name="prompt" Type="FieldArgument">
           <isactr:FieldObject.Value>
-            <InArgument x:TypeArguments="x:String">Gib mir eine Zufallszahl</InArgument>
+            <InArgument x:TypeArguments="x:String">Gib mir eine Zufallszahl zwischen 0 &amp; 10</InArgument>
           </isactr:FieldObject.Value>
         </isactr:FieldObject>
         <isactr:FieldObject Name="image_type" Type="FieldArgument" />
